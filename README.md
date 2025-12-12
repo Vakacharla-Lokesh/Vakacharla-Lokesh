@@ -72,14 +72,14 @@
 
 ### 🚀 Featured Projects
 <p align="center">
-  <a href="https://github.com/Vakacharla-Lokesh/Game-Hub-v2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vakacharla-Lokesh&repo=Game-Hub-v2&theme=radical" />
-  </a>
   <a href="https://github.com/Vakacharla-Lokesh/Store-it">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vakacharla-Lokesh&repo=Store-it&theme=radical" />
   </a>
   <a href="https://github.com/Vakacharla-Lokesh/Widgetopia">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vakacharla-Lokesh&repo=Widgetopia&theme=radical" />
+  </a>
+  <a href="https://github.com/Vakacharla-Lokesh/SMART-Attendance-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vakacharla-Lokesh&repo=SMART-Attendance-System&theme=radical" />
   </a>
 </p>
 
@@ -88,6 +88,15 @@
 ### 🌐 LeetCode Stats
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Vakacharla-Lokesh?theme=dark&font=Karma&ext=heatmap&period=3months" alt="LeetCode Stats" />
+</p>
+
+---
+
+### 🌐 GeeksForGeeks Stats
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/profile/lokeshgraxu">
+    <img src="https://gfgstatscard.vercel.app/lokeshgraxu" alt="GfG stats for lokeshgraxu" />
+  </a>
 </p>
 
 ---
