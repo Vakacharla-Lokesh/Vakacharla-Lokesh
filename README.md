@@ -10,7 +10,7 @@
 ### 🌟 About Me
 - 🔭 Currently working on **Smart RFID Attendance System with IoT & Blockchain**  
 - 🌱 Learning **AI | Blockchain | Cybersecurity**  
-- 🎌 Fun fact: *I’ve watched over 175 anime titles and counting!*  
+- 🎌 Fun fact: *I've watched over 175 anime titles and counting!*  
 - 💡 Exploring **Cloud Deployments & Real-Time Collaboration Tools**  
 
 ---
@@ -19,7 +19,7 @@
 <p align="center">
   <a href="mailto:lokeshgpta04@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.instagram.com/lokeshvakacharla/?__pwa=1"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="[https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/lokesh-vakacharla-00472a250"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/lokesh-vakacharla-00472a250"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://portfolio-v2-lime-nu.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
@@ -49,14 +49,12 @@
 
 ---
 
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vakacharla-Lokesh&show_icons=true&theme=radical&hide_border=false&count_private=true" height="180px" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vakacharla-Lokesh&theme=radical&hide_border=false" height="180px" />
+  <img src="https://streak-stats.demolab.com/?user=Vakacharla-Lokesh&theme=radical&hide_border=false" height="180px" />
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vakacharla-Lokesh&theme=radical&hide_border=false&layout=compact" height="180px" />
 </p>
@@ -64,9 +62,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vakacharla-Lokesh&theme=radical&no-frame=true&margin-w=8&margin-h=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Vakacharla-Lokesh&theme=radical&no-frame=true&margin-w=8&margin-h=8&column=4&row=2" />
 </p>
-
 
 ---
 
@@ -87,14 +84,14 @@
 
 ### 🌐 LeetCode Stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Vakacharla-Lokesh?theme=dark&font=Karma&ext=heatmap&period=3months" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Vakacharla-Lokesh?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 ---
 
 ### 🌐 GeeksForGeeks Stats
 <p align="center">
-  <a href="https://www.geeksforgeeks.org/profile/lokeshgraxu">
+  <a href="https://www.geeksforgeeks.org/user/lokeshgraxu">
     <img src="https://gfgstatscard.vercel.app/lokeshgraxu" alt="GfG stats for lokeshgraxu" />
   </a>
 </p>
@@ -102,10 +99,10 @@
 ---
 
 ### ✨ Fun Section
-> “Code, Coffee, and Anime keep me alive.” ☕💻🎌  
+> "Code, Coffee, and Anime keep me alive." ☕💻🎌  
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Anime Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
 </p>
 
 <p align="center">
